@@ -4,8 +4,7 @@
 
 ## 1. 專案參考資源
 在實作過程中，透過 AI 協作解決了關鍵的邏輯與除錯問題：
-* ## [加入 while 的 AI 實作紀錄](https://gemini.google.com/share/a0196b10a62b)
-* ## [開發過程困難排除紀錄](https://gemini.google.com/share/2c4437a7f3a4)
+* ## [p0 編譯器：while 語法與函數呼叫](https://gemini.google.com/share/a66bab623bae)
 
 ---
 
